@@ -1,1 +1,1 @@
-Hello, stranger. To submit a software patch, ask a question, or have a public discussion, feel free to submit a post on [SourceHut](https://lists.sr.ht/~speguero/public-inbox) via [~speguero/public-inbox@lists.sr.ht](mailto:~speguero/public-inbox@lists.sr.ht) (plain text only).
+Hello, stranger. **To submit a software patch**, ask a question, or have a public discussion, feel free to submit a post on [**SourceHut**](https://lists.sr.ht/~speguero/public-inbox) via [~speguero/public-inbox@lists.sr.ht](mailto:~speguero/public-inbox@lists.sr.ht) (plain text only). 😉
